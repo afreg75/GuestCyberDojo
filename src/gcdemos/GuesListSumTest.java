@@ -47,7 +47,7 @@ public class GuesListSumTest {
 		assertEquals(expected, actual); 	
 	}
 	@Test
-	public void testSum3() {
+	public void testSum4() {
 		//Arrange
 		GuestList guestList = new GuestList();
 		guestList.add("David", 47, true);
